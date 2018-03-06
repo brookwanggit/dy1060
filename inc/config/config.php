@@ -14,7 +14,7 @@ $MAC = array (
   array (
     'name' => '在线电影-电影下载-尽在简单影音',
     'installdir' => '/',
-    'url' => 'www.b1060.com',
+    'url' => 'www.jianfeilianmeng.com',
     'keywords' => '简单影音，电影下载，迅雷电影下载，最新电影',
     'description' => '最好的迅雷电影下载网,分享最新电影,高清电影、综艺、动漫、电视剧等下载',
     'templatedir' => 'PC',
